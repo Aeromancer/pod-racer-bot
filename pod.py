@@ -1,7 +1,7 @@
 import sys
 import math
 
-# Auto-generated code below aims at helping you parse
+# Auto-generated code below aims at helping you parsev
 # the standard input according to the problem statement.
 
 
